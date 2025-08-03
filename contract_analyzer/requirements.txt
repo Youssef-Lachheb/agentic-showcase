@@ -1,0 +1,7 @@
+openai
+langchain
+langchain-community
+chromadb
+pymupdf
+python-dotenv
+
