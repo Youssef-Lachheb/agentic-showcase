@@ -79,8 +79,8 @@ All agents are real-world client-facing solutions, emphasizing reasoning quality
 
 > Youssef Lachheb  
 > GitHub: [github.com/Youssef-Lachheb](https://github.com/Youssef-Lachheb)  
-> Email: apply@talentperformer.com *(submission target)*  
-> Mission: To deliver production-ready agentic systems for real clients
+
+
 
 ---
 
