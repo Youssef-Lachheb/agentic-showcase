@@ -21,15 +21,18 @@ This project simulates a real-world legal assistant AI system that:
 Create a `.env` file in the `contract_analyzer/` folder:
 OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
-## How to Run
 
-```bash
-pip install -r requirements.txt
-python main.py
-
-🔗 Stack
+## Stack
 
     Python 3.10+
     OpenAI GPT-3.5 (via LangChain OpenAI)
     PyMuPDF for PDF parsing
     ChromaDB for persistent vector memory
+
+
+
+## How to Run
+
+```bash
+pip install -r requirements.txt
+python main.py
