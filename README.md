@@ -1,4 +1,4 @@
-# 🧠 Agentic Showcase – Level 4 & Level 5 AI Agents
+# 🧠 Agentic Showcase – Level 4 AI Agents
 
 This repository demonstrates my ability to **design, build, and deploy modular, production-grade agentic AI systems** aligned with **Talent Performer's architecture and philosophy**.
 
